@@ -22,7 +22,7 @@ sentiment over time for each value and the sentiment for the companies Mint Mobi
 and Infinity Mobile. These companies differ from policy, so this analysis provides
 insight into the influence of company policies on these values.
 
-#### File Descriptions
+### File Descriptions
 **Wireless mobile services**= This file contains the code that visualizes the topic model for each company. In addition, this file also contains the code for the data visualization of the entire built system. Finally, this file also contains the code for the data characteristics.
 
 **EVALUATION 2**= This file contains the code for the evaluation of the three different topic models. It also contains the code for the evaluation of the four different sentiment models (for the 1st dataset).
