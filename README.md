@@ -33,7 +33,7 @@ insight into the influence of company policies on these values.
 
 **XfinityDEFF**= This file is the mined dataset from Twitter for Xfinity Mobile
 
-##### Link to paper
+### Link to paper
 https://www.overleaf.com/read/sndxhgrdtwjk
 
-###### Wehel Hadi
+### Wehel Hadi
